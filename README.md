@@ -110,12 +110,7 @@ For crypto traders and Web3 developers:
 
 ### Install
 
-```bash
-# macOS
-brew install clicknclaw
-```
-
-Or download from [GitHub](https://github.com/ClickNClaw).
+Soon...
 
 ### Get Started
 
