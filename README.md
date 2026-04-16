@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/ClickNClaw" target="_blank">GitHub</a> ·
-  <a href="https://twitter.com/ClickNClaw" target="_blank">Twitter</a> ·
+  <a href="https://x.com/ClickNClawLabs" target="_blank">Twitter</a> ·
   <a href="https://www.clicknclaw.com" target="_blank">Website</a>
 </p>
 
@@ -145,7 +145,7 @@ Soon...
 
 ## Contact
 
-- **Twitter:** [@ClickNClaw](https://twitter.com/ClickNClaw)
+- **Twitter:** [@ClickNClaw](https://x.com/ClickNClawLabs)
 - **GitHub:** [github.com/ClickNClaw](https://github.com/ClickNClaw)
 - **Website:** [clicknclaw.com](https://www.clicknclaw.com)
 
