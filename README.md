@@ -145,7 +145,7 @@ Soon...
 
 ## Contact
 
-- **Twitter:** [@ClickNClaw](https://x.com/ClickNClawLabs)
+- **Twitter:** [@ClickNClawLabs](https://x.com/ClickNClawLabs)
 - **GitHub:** [github.com/ClickNClaw](https://github.com/ClickNClaw)
 - **Website:** [clicknclaw.com](https://www.clicknclaw.com)
 
